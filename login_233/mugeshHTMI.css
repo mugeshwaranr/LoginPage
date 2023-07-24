@@ -1,0 +1,48 @@
+.color
+{
+    background-image:url("https://wallpaperaccess.com/full/4893694.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.name
+{
+    width: 20vh;
+}
+
+.bg-colour
+{
+    background-color:rgba(247, 246, 251, 0.947);
+    padding: 30px;
+    margin-left: 250px;
+    margin-right: 250px;
+    border-radius: 25px;
+}
+
+.button
+{
+border-radius: 10px;
+background-color: rgb(98, 109, 131);
+
+}
+.bn-center
+{
+    text-align: center;
+    padding: 20px;
+}
+
+.signin
+{
+    text-align: center;
+}
+
+b:hover
+{
+    color: rgb(21, 15, 195);
+}
+
+.top1
+{
+    height: 50px;
+    width: 50px;
+}
